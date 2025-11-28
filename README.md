@@ -23,3 +23,7 @@ Escolha uma pasta (ex: `readme_034`) e utilize o conteúdo do `README.md`, HTML,
 
 ## 📜 Licença
 Uso totalmente livre.
+
+###
+
+BAIXE O ARQUIVO .ZIP PARA EXTRAIR AS PASTAS
